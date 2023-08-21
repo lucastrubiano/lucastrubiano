@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<h1 align="center">Hola, soy Lucas!</h1>
+<h3 align="center">💻 Data Engineer | Python Developer | Teacher 💻</h3>
 
 <!--
 **lucastrubiano/lucastrubiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
